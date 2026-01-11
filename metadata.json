@@ -1,0 +1,7 @@
+{
+  "name": "Copy of TimeMachine Lens",
+  "description": "Transform your photos into iconic looks from the 80s, 90s, 2000s, and beyond using Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
